@@ -3,3 +3,7 @@
 2024-08-27 01:23:19,718:INFO:Data extracted: 1000 records.
 2024-08-27 01:23:19,722:INFO:Data loaded successfully
 2024-08-27 01:23:19,722:INFO:ETL process completed
+2024-08-27 01:33:32,541:INFO:ETL process started
+2024-08-27 01:33:32,553:INFO:Data extracted: 1000 records.
+2024-08-27 01:33:32,558:INFO:Data loaded successfully
+2024-08-27 01:33:32,558:INFO:ETL process completed
