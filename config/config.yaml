@@ -1,3 +1,10 @@
 data_paths:
   raw_data: "D:\\Projetos\\Projeto ETL\\data\\raw\\data.csv"
   processed_data: "D:\\Projetos\\Projeto ETL\\data\\processed\\transformed_data.csv"
+
+database:
+  driver: "ODBC Driver 17 for SQL Server"
+  username: "login"
+  password: 123123
+  server: "DESKTOP-EIOG2MK\\LEARNING"
+  trusted_connection: false
