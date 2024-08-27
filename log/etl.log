@@ -1,0 +1,5 @@
+2024-08-27 01:21:45,577:INFO:ETL process started
+2024-08-27 01:23:19,693:INFO:ETL process started
+2024-08-27 01:23:19,718:INFO:Data extracted: 1000 records.
+2024-08-27 01:23:19,722:INFO:Data loaded successfully
+2024-08-27 01:23:19,722:INFO:ETL process completed

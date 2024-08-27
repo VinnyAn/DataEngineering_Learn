@@ -1,0 +1,3 @@
+data_paths:
+  raw_data: "D:\\Projetos\\Projeto ETL\\data\\raw\\data.csv"
+  processed_data: "D:\\Projetos\\Projeto ETL\\data\\raw\\transformed_data.csv"
